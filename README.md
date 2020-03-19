@@ -1,5 +1,4 @@
 # hello-world
-front end 
 name: Egwuenu favour ogochukwu
 email:favorjosh@yahoo.com
 slack:freebornjosh1
